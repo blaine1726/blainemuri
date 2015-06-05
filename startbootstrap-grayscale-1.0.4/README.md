@@ -8,7 +8,7 @@ My additions to the code are minimal at the moment, with greater changes to come
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/blaine1726/blainemuri) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/blaine1726/blainemuri/issues) here on GitHub.
 
 ## Creator
 
